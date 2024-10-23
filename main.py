@@ -1,0 +1,1 @@
+colours_list = colorgram.extract(image,)
